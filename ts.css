@@ -1,0 +1,97 @@
+
+.nav{
+    font-family: "Times New Roman";
+    margin: 0px;
+    font-weight: bold;
+    text-align: left;
+    background-color: #cccccc;
+    padding: 10px;
+}
+.wall{
+    text-align: right;
+
+
+}
+
+.class{
+    font-family: "Times New Roman";
+    /* display: inline;*/
+    color:black;
+    border-style: double;
+    text-align: center;
+    background-color: darkgoldenrod;
+    margin: 0px;
+
+
+}
+.img {
+    text-align: center;
+}
+.img img{
+    border-radius:59%;
+    width: 300px;
+    height: 300px;
+
+}
+
+.name{
+    font-family: "Times New Roman";
+    color="black";
+    border-style: hidden;
+    background-color: #cccccc;
+    text-align: center;
+    padding: 10px;
+
+}
+.skill{
+    text-align: center;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    text-align: center;
+
+
+}
+.imgg{
+    text-align: center;
+}
+.imgg img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.about{
+    padding: 20px;
+    background-color: #b3d4fc;
+    margin: 0px;
+    color: black;
+}
+.copy{
+    text-align: center;
+    background-color: #b3d4fc;
+    color: black;
+    margin: 0px;
+    padding: 10px;
+}
+.phhp{
+table{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px;
+}
+table tr th{
+    padding: 10px;
+}
+table tr td{
+    background-color: lightseagreen;
+    padding: 10px;
+}
+.text{
+    text-align: left;
+}
+
+
+
+
+
